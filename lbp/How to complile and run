@@ -1,0 +1,9 @@
+The cascade classifers xml contain the trained data set for 4500 faces.
+3000 positive samples and 1500 negative samples.
+
+-Open Terminal
+-Compile using
+$ opencv objectDetection2.cpp
+$ ./objectDetection2
+
+Press Ctrl+C to terminate.
